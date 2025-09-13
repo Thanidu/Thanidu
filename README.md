@@ -1,6 +1,17 @@
-# Hi there! 👋
+# Hi, I’m Thanidu Thennakoon 👋 
 
-I'm Thanidu Thennakoon, an undergraduate student at the Faculty of Technology, University of Sri Jayewardenepura, passionate about research and innovation in Energy and Environmental Technology. Welcome to my GitHub profile!
+I have completed my degree at the **Faculty of Technology, University of Sri Jayewardenepura**, specializing in **Energy and Environmental Technology**.  
+
+Currently, I work as a **Research Assistant at the Solar Research Center, University of Peradeniya**, where I focus on:  
+
+- ⚡ Designing **DC-DC converters and inverter systems**  
+- 🤖 Applying **AI and machine learning** in energy research  
+- 🌱 Exploring **sustainable and renewable energy solutions**  
+- 🔬 Working on **solar and power electronics innovation**  
+
+I am passionate about bridging **renewable energy technologies** with **intelligent control systems** to drive practical, real-world solutions.  
+
+📌 Feel free to explore my repositories — they reflect my research, projects, and continuous learning journey.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanidu&label=Profile%20views&color=0e75b6&style=flat" alt="thanidu" /> </p>
 
